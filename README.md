@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CRM Dashboard
 
-## Getting Started
+A modern CRM dashboard built with React, Next.js, and Tailwind CSS.
 
-First, run the development server:
+## 🚀 Getting Started
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Follow these steps to set up the project locally:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/manishaverma15/crm-dashboard.git
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+2. **Navigate into the Project Directory**
+   cd crm-dashboard
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+3. **Install Dependencies**
+    npm install
 
-## Learn More
+4. **Start the Development Server**
+    npm run dev
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+5. **View in System Theme**
+    Open your browser and go to:
+    http://localhost:3000
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+6. **View in System Theme**
+    Open your browser and go to:
+    http://localhost:3000/?theme=light
 
-## Deploy on Vercel
+7. **View in Browser Dark Theme**
+    Open your browser and go to:
+    http://localhost:3000/?theme=dark
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+  **Here are some screenshots of the project**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+    
+## 💻 Screenshot
+
+![CRM Dashboard UI - Light Theme](public/screenshot1.png)
+![CRM Dashboard UI - Light Theme](public/screenshot2.png)
+![CRM Dashboard UI - Light Theme](public/screenshot3.png)
+![CRM Dashboard UI - Dark Theme](public/screenshot4.png)
+![CRM Dashboard UI - Dark Theme](public/screenshot5.png)
