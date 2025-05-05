@@ -37,8 +37,8 @@ Follow these steps to set up the project locally:
     
 ## 💻 Screenshot
 
-![CRM Dashboard UI - Light Theme](public/screenshot1.png)
-![CRM Dashboard UI - Light Theme](public/screenshot2.png)
-![CRM Dashboard UI - Light Theme](public/screenshot3.png)
-![CRM Dashboard UI - Dark Theme](public/screenshot4.png)
-![CRM Dashboard UI - Dark Theme](public/screenshot5.png)
+![CRM Dashboard UI - Light Theme](/docs/screenshot1.png)
+![CRM Dashboard UI - Light Theme](/docs/screenshot2.png)
+![CRM Dashboard UI - Light Theme](/docs/screenshot3.png)
+![CRM Dashboard UI - Dark Theme](/docs/screenshot4.png)
+![CRM Dashboard UI - Dark Theme](/docs/screenshot5.png)
