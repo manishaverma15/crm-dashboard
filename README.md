@@ -14,9 +14,11 @@ Follow these steps to set up the project locally:
    cd crm-dashboard
 
 3. **Install Dependencies**
+   ```bash
     npm install
 
 4. **Start the Development Server**
+   ```bash
     npm run dev
 
 
@@ -24,7 +26,7 @@ Follow these steps to set up the project locally:
     Open your browser and go to:
     http://localhost:3000
 
-6. **View in System Theme**
+6. **View in Light Theme**
     Open your browser and go to:
     http://localhost:3000/?theme=light
 
